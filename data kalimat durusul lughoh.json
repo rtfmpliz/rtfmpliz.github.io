@@ -1,0 +1,140 @@
+{
+"Sheet1":[
+ {
+  "juz": 2,
+  "dars": 4
+ },
+ {
+  "Column1": "id",
+  "Column2": "juz",
+  "Column3": "dars",
+  "Column4": "tamrin",
+  "Column5": "kalimat"
+ },
+ {
+  "Column1": 1,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "bagaimana kabarmu ? Semoga kamu dalam keadaan baik",
+  "juz": "tidakkah kamu  (sudah) pergi ke sekolah hari ini ?"
+ },
+ {
+  "Column1": 2,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "dimana bapakmu yaa ibrohim ?",
+  "juz": "tidakkah kamu  (sudah) pergi ke sekolah hari ini ?"
+ },
+ {
+  "Column1": 3,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "dia (bapakku)pergi ke pasara",
+  "juz": "kenapa kamu (sudah)  kembali ?"
+ },
+ {
+  "Column1": 4,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "dan dimana ibumu ?",
+  "juz": "mereka (pr)  (sudah) pergi ke sekolah"
+ },
+ {
+  "Column1": 5,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "dia (ibuku) (sudah) pergi ke kampus",
+  "juz": "dia (ibuku) (sudah) pergi ke kampus"
+ },
+ {
+  "Column1": 6,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "dan dimana saudara-saudara mu (pr) ?",
+  "juz": "kenapa kamu (sudah)  kembali ?"
+ },
+ {
+  "Column1": 7,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "mereka (pr)  (sudah) pergi ke sekolah"
+ },
+ {
+  "Column1": 8,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "tidakkah kamu  (sudah) pergi ke sekolah hari ini ?",
+  "Column6": 0.33099956353446913,
+  "juz": "dan dimana saudara-saudara mu (pr) ?"
+ },
+ {
+  "Column1": 9,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "benar, aku  (sudah) pergi dan aku (sudah)  kembali setelah jam pelajaran pertama",
+  "Column6": 0.4062849849046599,
+  "juz": "dan dimana ibumu ?"
+ },
+ {
+  "Column1": 10,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "kenapa kamu (sudah)  kembali ?",
+  "Column6": 0.5045779580514864,
+  "juz": "dia (bapakku)pergi ke pasara"
+ },
+ {
+  "Column1": 11,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "aku (sudah)  kembali karena aku sakit",
+  "Column6": 0.3393500487595239,
+  "juz": "dia (ibuku) (sudah) pergi ke kampus"
+ },
+ {
+  "Column1": 12,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "tidak mengapa, apakah kamu sudah pergi ke dokter ?",
+  "Column6": 0.5754457221523207,
+  "juz": "dimana bapakmu yaa ibrohim ?"
+ },
+ {
+  "Column1": 13,
+  "Column2": 2,
+  "Column3": 4,
+  "Column4": 0,
+  "Column5": "ya, aku sudah pergi",
+  "Column6": 0.6697977077194325,
+  "juz": "bagaimana kabarmu ? Semoga kamu dalam keadaan baik"
+ },
+ {
+  "Column6": 0.3330010388745379,
+  "juz": "#N\/A"
+ },
+ {
+  "Column6": 0.3440430389348915,
+  "juz": "#N\/A"
+ },
+ {
+  "Column6": 0.8801116112588432,
+  "juz": "#N\/A"
+ },
+ {
+  "Column6": 0.9563700084915894,
+  "juz": "#N\/A"
+ }
+]
+}

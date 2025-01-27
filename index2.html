@@ -1,0 +1,20 @@
+<html>
+  <body>
+    <div class="wrapper">
+      <input type="text" id="name">
+      <input type="submit" value="send" id="button">
+    </div>
+
+  <script>
+    var button = document.getElementById('button');
+
+    function get() {
+      var user_name = document.getElementById("name").value;
+      console.log(user_name);
+    }
+
+      button.onclick = get;
+
+    </script>
+  </body>
+</html>

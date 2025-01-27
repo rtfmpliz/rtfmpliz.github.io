@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "bagaimana kabarmu ? Semoga kamu dalam keadaan baik"
+    },
+    {
+        "id": 2,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "dimana bapakmu yaa ibrohim ?"
+    },
+    {
+        "id": 3,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "dia (bapakku)pergi ke pasara"
+    },
+    {
+        "id": 4,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "dan dimana ibumu ?"
+    },
+    {
+        "id": 5,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "dia (ibuku) (sudah) pergi ke kampus"
+    },
+    {
+        "id": 6,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "dan dimana saudara-saudara mu (pr) ?"
+    },
+    {
+        "id": 7,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "mereka (pr)  (sudah) pergi ke sekolah"
+    },
+    {
+        "id": 8,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "tidakkah kamu  (sudah) pergi ke sekolah hari ini ?"
+    },
+    {
+        "id": 9,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "benar, aku  (sudah) pergi dan aku (sudah)  kembali setelah jam pelajaran pertama"
+    },
+    {
+        "id": 10,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "kenapa kamu (sudah)  kembali ?"
+    },
+    {
+        "id": 11,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "aku (sudah)  kembali karena aku sakit"
+    },
+    {
+        "id": 12,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "tidak mengapa, apakah kamu sudah pergi ke dokter ?"
+    },
+    {
+        "id": 13,
+        "juz": 2,
+        "dars": 4,
+        "tamrin": 0,
+        "kalimat": "ya, aku sudah pergi"
+    }
+]
