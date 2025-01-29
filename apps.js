@@ -92,7 +92,7 @@ function outData(val) {
         htmlTable += `<td>${ele.tamrin}</td>`;
         // htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
         htmlTable += `<td>${ele.hal}</td>`;
-        htmlTable += `<td style="font-size: 85%;">${ele.kalimat}</td>`;
+        htmlTable += `<td style="font-size: 80%;">${ele.kalimat}</td>`;
         htmlTable += `</body>`;
 
 
@@ -110,7 +110,7 @@ function outData(val) {
             htmlTable += `<td>${ele.tamrin}</td>`;
             // htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
             htmlTable += `<td>${ele.hal}</td>`;
-            htmlTable += `<td style="font-size: 85%;">${ele.kalimat}</td>`;
+            htmlTable += `<td style="font-size: 80%;">${ele.kalimat}</td>`;
         })
     }
     // html += `<small>${JSON.stringify(val)}</small>`;
