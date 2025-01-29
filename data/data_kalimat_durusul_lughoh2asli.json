@@ -3,33 +3,29 @@
         {
             "id": 1,
             "juz": 2,
-            "dars": 4,
+            "dars": 2,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "bagaimana kabarmu ? Semoga kamu dalam keadaan baik"
         },
         {
             "id": 2,
             "juz": 2,
-            "dars": 4,
+            "dars": 2,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "dimana bapakmu yaa ibrohim ?"
         },
         {
             "id": 3,
             "juz": 2,
-            "dars": 4,
+            "dars": 2,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "dia (bapakku)pergi ke pasara"
         },
         {
             "id": 4,
             "juz": 2,
-            "dars": 4,
+            "dars": 2,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "dan dimana ibumu ?"
         },
         {
@@ -37,7 +33,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "dia (ibuku) (sudah) pergi ke kampus"
         },
         {
@@ -45,7 +40,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "dan dimana saudara-saudara mu (pr) ?"
         },
         {
@@ -53,7 +47,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "mereka (pr)  (sudah) pergi ke sekolah"
         },
         {
@@ -61,7 +54,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "tidakkah kamu  (sudah) pergi ke sekolah hari ini ?"
         },
         {
@@ -69,7 +61,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "benar, aku  (sudah) pergi dan aku (sudah)  kembali setelah jam pelajaran pertama"
         },
         {
@@ -77,7 +68,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "kenapa kamu (sudah)  kembali ?"
         },
         {
@@ -85,7 +75,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "aku (sudah)  kembali karena aku sakit"
         },
         {
@@ -93,7 +82,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "tidak mengapa, apakah kamu sudah pergi ke dokter ?"
         },
         {
@@ -101,7 +89,6 @@
             "juz": 2,
             "dars": 4,
             "tamrin": 0,
-            "hal": "",
             "kalimat": "ya, aku sudah pergi"
         },
         {
@@ -109,7 +96,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "dimana kalian (lk) pergi setelah pelajaran wahai anak2 ku ?"
         },
         {
@@ -117,7 +103,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "kami pergi ke tempat bermain"
         },
         {
@@ -125,7 +110,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "apakah sepak bola kalian bermain atau bola basket ?"
         },
         {
@@ -133,7 +117,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "hari ini kami bermain sepak bola. Kami bermain bola baske pekan kemarin"
         },
         {
@@ -141,7 +124,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "tidakkah kalian pergi ke perpustakaan hari ini ?"
         },
         {
@@ -149,7 +131,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "benar, kami telah pergi"
         },
         {
@@ -157,7 +138,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "apa (yang) kalian baca disana ?"
         },
         {
@@ -165,7 +145,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "kami telah membaca koran"
         },
         {
@@ -173,7 +152,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "apakah kalian mendegar berita ? Kabar dari radio hari ini ?"
         },
         {
@@ -181,7 +159,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "ya, kami mendengar nya"
         },
         {
@@ -189,7 +166,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "dari mana radio yang kalian dengar ?"
         },
         {
@@ -197,7 +173,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "kami mendengar dari 3 radio: dari radio riyadh, dan radio kairo, dan radio london"
         },
         {
@@ -205,7 +180,6 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "aku telah mendengar bahwasannya bilal sakit dan bahwasanya dia di rumah sakit. Apakah benar ini ?"
         },
         {
@@ -213,128 +187,7 @@
             "juz": 2,
             "dars": 7,
             "tamrin": 0,
-            "hal": 46,
             "kalimat": "ya, ini benar, semoga Allah menyembuhkannya"
-        },
-        {
-            "id": 28,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "aamiin, kapan dia (lk) masuk rumah sakit ?"
-        },
-        {
-            "id": 29,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "dia (lk) masuk 3 hari yang lalu / sebelumnya (sebelum 3 hari)"
-        },
-        {
-            "id": 30,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "dimana kitab (tersebut) yang memiliki sampul merah yang (dulu) didalam kamarku ? Apakah kalian )lk melihatnya ?"
-        },
-        {
-            "id": 31,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "saya mengambilnya semalam dan saya membaca separuh"
-        },
-        {
-            "id": 32,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "dan dimana majalah (tersebut) yang (dulu) dibawah kitab (tersebut) ini ?"
-        },
-        {
-            "id": 33,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "apakah ini dia ?"
-        },
-        {
-            "id": 34,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "tidak, majalah (tersebut) memiliki sampul kuning"
-        },
-        {
-            "id": 35,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "dia bersamaku, aku mengambilnya hari ini"
-        },
-        {
-            "id": 36,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "bell telah berbunyi maka marwan berdiri dan sedang membuka pintu (tersebut) dan saudara (pr) nya (sedang ) masuk"
-        },
-        {
-            "id": 37,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "assalaamu 'alaikum warohmatullohi wabarokaatuh"
-        },
-        {
-            "id": 38,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "wa 'alaikum salaam warohmatullohi wabarokaatuh"
-        },
-        {
-            "id": 39,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "dimana kalian (pr) (telah) pergi wahai anak-anaku (pr)"
-        },
-        {
-            "id": 40,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "kami pergi untuk mengunjungi kepala sekolah (pr, tersebut)"
-        },
-        {
-            "id": 41,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "apakah kalian (pr) berjalan atau kalian (pr) pergi dengan mobil ?"
-        },
-        {
-            "id": 42,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 0,
-            "hal": 47,
-            "kalimat": "kami berjalan dikarenakan rumahnya (pr) dekan dari sekolah kami. Dia diantara masjid dan sekolah"
         },
         {
             "id": 43,
@@ -479,86 +332,6 @@
             "tamrin": 2,
             "hal": 48,
             "kalimat": "anak-anak (lk) (telah) bermain sepak bola (di) pekan kemarin"
-        },
-        {
-            "id": 61,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "bersamaku (aku punya) kitab yang memiliki sampul merah"
-        },
-        {
-            "id": 62,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "dimana kitab (tsb) yang memiliki sampul merah ?"
-        },
-        {
-            "id": 63,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "milik siapa rumat itu yang memiliki pintu hijau ?"
-        },
-        {
-            "id": 64,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "laki laki (tsb) itu memiliki tas yang indah adalah murid yang terkenal"
-        },
-        {
-            "id": 65,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "siapa anak (lk) itu yang berpakaian merah ?"
-        },
-        {
-            "id": 66,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 9,
-            "hal": 52,
-            "kalimat": "pemuda itu yang memiliki rambut yang panjang (adalah) murid (yang) baru"
-        },
-        {
-            "id": 67,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 8,
-            "hal": 52,
-            "kalimat": "dimana murid (tsb) yang baru ? Apakah kalian melihatnya ?"
-        },
-        {
-            "id": 68,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 8,
-            "hal": 52,
-            "kalimat": "dimana ular (tsb) ? Apakah kalian membunuhnya ?"
-        },
-        {
-            "id": 69,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 8,
-            "hal": 52,
-            "kalimat": "ini (adalah) pelajaran yang mudah, apakah kalian memahaminya ?"
-        },
-        {
-            "id": 70,
-            "juz": 2,
-            "dars": 7,
-            "tamrin": 8,
-            "hal": 52,
-            "kalimat": "dimana guru-guru (tsb) ? Apakah kalian melihat mereka ?"
         }
     ]
 }

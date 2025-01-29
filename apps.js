@@ -54,8 +54,11 @@ function outData(val) {
     console.log('qty2 : ',qty2,'val : ', val.length);
     for (let index = 0; index < qty2; index++) {
         // const element = array[index];
-        
-         const random = Math.floor(Math.random() * qty2);
+        //var rnd = Math.random();
+        //var rndkali = rnd * val.length;
+        //var rndfloor = Math.floor(rndkali)
+         const random = Math.floor(Math.random() * val.length);
+         //console.log('rnd : ', rnd, ' rndkali : ', rndkali, ' rndfloor : ' , rndfloor);
         // console.log(random, val[random]);
         if (randomListNumber.indexOf(random) >=0 ) {
             
@@ -87,6 +90,7 @@ function outData(val) {
         htmlTable += `<td>${ele.juz}</td>`;
         htmlTable += `<td>${ele.dars}</td>`;
         htmlTable += `<td>${ele.tamrin}</td>`;
+        htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
         htmlTable += `<td>${ele.kalimat}</td>`;
         htmlTable += `</body>`;
 
@@ -103,6 +107,7 @@ function outData(val) {
             htmlTable += `<td>${ele.juz}</td>`;
             htmlTable += `<td>${ele.dars}</td>`;
             htmlTable += `<td>${ele.tamrin}</td>`;
+            htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
             htmlTable += `<td>${ele.kalimat}</td>`;
         })
     }
