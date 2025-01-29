@@ -90,8 +90,9 @@ function outData(val) {
         htmlTable += `<td>${ele.juz}</td>`;
         htmlTable += `<td>${ele.dars}</td>`;
         htmlTable += `<td>${ele.tamrin}</td>`;
-        htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
-        htmlTable += `<td>${ele.kalimat}</td>`;
+        // htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
+        htmlTable += `<td>${ele.hal}</td>`;
+        htmlTable += `<td style="font-size: 85%;">${ele.kalimat}</td>`;
         htmlTable += `</body>`;
 
 
@@ -107,8 +108,9 @@ function outData(val) {
             htmlTable += `<td>${ele.juz}</td>`;
             htmlTable += `<td>${ele.dars}</td>`;
             htmlTable += `<td>${ele.tamrin}</td>`;
-            htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
-            htmlTable += `<td>${ele.kalimat}</td>`;
+            // htmlTable += `<td>${(typeof ele.hal === 'undefined') ? 0 : ele.hal}</td>`;
+            htmlTable += `<td>${ele.hal}</td>`;
+            htmlTable += `<td style="font-size: 85%;">${ele.kalimat}</td>`;
         })
     }
     // html += `<small>${JSON.stringify(val)}</small>`;
