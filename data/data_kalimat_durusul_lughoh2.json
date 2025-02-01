@@ -999,6 +999,350 @@
             "tamrin": 4,
             "hal": 49,
             "kalimat": "apakah kalian (lk/pr) telah melihat guru (tsb) yang baru wahai saudara-saudaraku (lk/pr) ?"
+        },
+        {
+            "id": "124",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini (adalah) rumah"
+        },
+        {
+            "id": "125",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) masjid"
+        },
+        {
+            "id": "126",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) pintu"
+        },
+        {
+            "id": "127",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) buku"
+        },
+        {
+            "id": "128",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) pena"
+        },
+        {
+            "id": "129",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) kunci"
+        },
+        {
+            "id": "130",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) meja"
+        },
+        {
+            "id": "131",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) ranjang"
+        },
+        {
+            "id": "132",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "5",
+            "kalimat": "ini  (adalah) kursi"
+        },
+        {
+            "id": "133",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "apa ini"
+        },
+        {
+            "id": "134",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "ini adalah baju"
+        },
+        {
+            "id": "135",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "apakah ini rumah ?"
+        },
+        {
+            "id": "136",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "ya, ini  (adalah) rumah"
+        },
+        {
+            "id": "137",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "apakah ini ranjang ?"
+        },
+        {
+            "id": "138",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "tidak, ini  (adalah) kursi"
+        },
+        {
+            "id": "139",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "apakah ini kunci"
+        },
+        {
+            "id": "140",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "tidak , ini  (adalah) pena"
+        },
+        {
+            "id": "141",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "6",
+            "kalimat": "ini  (adalah) bintang"
+        },
+        {
+            "id": "142",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "9",
+            "kalimat": "siapa ini ?"
+        },
+        {
+            "id": "143",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "9",
+            "kalimat": "ini  (adalah) dokter"
+        },
+        {
+            "id": "144",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "9",
+            "kalimat": "ini  (adalah) murid"
+        },
+        {
+            "id": "145",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "9",
+            "kalimat": "ini  (adalah) anak laki-laki"
+        },
+        {
+            "id": "146",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "9",
+            "kalimat": "ini  (adalah) laki-laki"
+        },
+        {
+            "id": "147",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "ini  (adalah) pedagang"
+        },
+        {
+            "id": "148",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "ini  (adalah) anjing"
+        },
+        {
+            "id": "149",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "tidak, ini  (adalah) kucing"
+        },
+        {
+            "id": "150",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "ini  (adalah) keledai"
+        },
+        {
+            "id": "151",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "tidak, ini  (adalah) kuda"
+        },
+        {
+            "id": "152",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "apakah ini keledai ?"
+        },
+        {
+            "id": "153",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "apakah ini anjing ?"
+        },
+        {
+            "id": "154",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "dan apa ini ?"
+        },
+        {
+            "id": "155",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "10",
+            "kalimat": "ini  (adalah) unta"
+        },
+        {
+            "id": "156",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "ini  (adalah) ayam jago"
+        },
+        {
+            "id": "157",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "ini  (adalah) guru"
+        },
+        {
+            "id": "158",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apakah ini baju ?"
+        },
+        {
+            "id": "159",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "tidak, ini  (adalah) serbet"
+        },
+        {
+            "id": "160",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apa ini > ini  (adalah) pena"
+        },
+        {
+            "id": "161",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "siapa ini ? Ini  (adalah) dokter"
+        },
+        {
+            "id": "162",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apakah ini anjing ? Tidak, ini  (adalah) kucing"
+        },
+        {
+            "id": "163",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apakah ini ayam jago ? Ya"
+        },
+        {
+            "id": "164",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apakah ini kuda ? Tidak ini  (adalah) keledai"
+        },
+        {
+            "id": "165",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "apakah ini anak laki-laki ? Ya"
+        },
+        {
+            "id": "166",
+            "juz": "1",
+            "dars": "1",
+            "tamrin": "0",
+            "hal": "11",
+            "kalimat": "siapa ini ? Ini adalah laki-laki"
         }
     ]
 }

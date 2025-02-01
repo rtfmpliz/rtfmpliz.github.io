@@ -25,11 +25,12 @@ btn1.onclick = ()=>{
 
 function getData() {
     var dars = document.getElementById('dars').value;
+    var juz = document.getElementById('juz').value;
     if (dars==0) {
         fetch(url)
         .then(rep => rep.json())
         .then(data => {
-            outData(data.daftar);
+            outData(data.daftar.filter(p => p.juz == juz));
         })
     }
     else{
@@ -37,7 +38,7 @@ function getData() {
         fetch(url)
         .then(rep => rep.json())
         .then(data => {
-            outData(data.daftar.filter(p => p.dars == dars));
+            outData(data.daftar.filter(p => p.dars == dars && p.juz == juz));
         })
     }
 }
