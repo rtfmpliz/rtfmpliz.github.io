@@ -5,29 +5,46 @@
   </head><meta name="viewport" content="width=device-width, initial-scale=1, 
   maximum-scale=1, user-scalable=no">
   <body>
-    <h3>Latihan Terjemah Kalimat Durusul Lughoh</h3>
+    <h3>Latihan Terjemah Kalimat Durusul Lughoh </h3>
+      <!-- <a href="https://github.com/rtfmpliz/rtfmpliz.github.io/commits/master/"><i class="bi bi-clock-history">history</i></a> -->
+    
     <strong>Keterangan penggunaan : </strong>
     <p style="font-size: 80%;">ini hanya untuk memunculkan beberapa kalimat dari kitab durusul lughoh dalam bahasa indonesia dan dari kalimat ini di coba diterjemahkan dalam bahasa arab, bisa di tulis di buku untuk latihan atau dalam pesan WA , dan bisa saling koreksi sesama teman </p>
       <div class="row">
   
-          <div class="col">
-              <label class="col-form-label" for="juz">Juz</label>
-              <input class="form-control" min="1" max="4" type="number" name="" id="juz" value=2 placeholder="Juz">
+          <div class="col ">
+              <label class="col-form-label fw-bold text-center col" style="font-size: 80%;" for="juz">Juz</label>
+              <div>
+
+                <input class="form-control col" min="1" max="2" type="number" name="" id="juz" value=2 placeholder="Juz">
+              </div>
+          </div> 
+           <div class="col ">
+              <label class=" col text-center  fw-bold   col-form-label" style="font-size: 80%;"  for="dars">Dars Awal</label>
+            <div class="col row">
+
+              <input class="form-control col " type="number" value="0" name="" id="dars" placeholder="Dars">
+            </div>
           </div>
-          <div class="col">
-              <label class="col-sm-1 col-form-label" for="dars">Dars</label>
-  
-              <input class="form-control mb-3" type="number" value="0" name="" id="dars" placeholder="Dars">
+          <div class="col ">
+            <label class=" col text-center  fw-bold   col-form-label" style="font-size: 80%;"  for="dars">Dars Akhir</label>
+          <div class="col row">
+            <input class="form-control  col " type="number" value="0" name="" id="darsafter" placeholder="Dars">
+
           </div>
-          <div class="col">
-              <label class="col-form-label" for="qty">Jumlah Soal</label>
-  
-              <input class="form-control mb-3 " type="number" name="" id="qty" value="5" placeholder="Jumlah Soal">
+        </div>
+          <div class="col ">
+            
+            <label class="col-form-label  fw-bold  text-center bold col" style="font-size: 80%;"  for="qty">Qty Soal</label>
+            <div>
+              
+              <input class="form-control col" type="number" name="" id="qty" value="5" placeholder="Jumlah Soal">
+            </div>
           </div>
       </div>
-      <div>
-          <button id="data" class="btn btn-primary">Click</button>
-          <button id="clear" class="btn  btn-secondary">Clear</button>
+      <div >
+          <button id="data" class="btn btn-primary">Tampilkan Kalimat</button>
+          <button id="clear" class="btn  btn-secondary">Hapus</button>
   
       </div>
       <table class="table table-bordered table-striped">

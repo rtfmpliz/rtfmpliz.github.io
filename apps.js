@@ -25,8 +25,10 @@ btn1.onclick = ()=>{
 
 function getData() {
     var dars = document.getElementById('dars').value;
+    var darsafter = document.getElementById('darsafter').value;
     var juz = document.getElementById('juz').value;
-    if (dars==0) {
+    // console.log("dars : ",dars, "dars after : " , darsafter);
+    if (dars==0 && darsafter==0) {
         fetch(url)
         .then(rep => rep.json())
         .then(data => {
@@ -35,11 +37,21 @@ function getData() {
     }
     else{
 
-        fetch(url)
-        .then(rep => rep.json())
-        .then(data => {
-            outData(data.daftar.filter(p => p.dars == dars && p.juz == juz));
-        })
+        if (darsafter == 0) {
+            fetch(url)
+            .then(rep => rep.json())
+            .then(data => {
+                outData(data.daftar.filter(p => p.dars >= dars  && p.juz == juz));
+            })
+        }
+        else{
+
+            fetch(url)
+            .then(rep => rep.json())
+            .then(data => {
+                outData(data.daftar.filter(p => p.dars >= dars  && p.dars <= darsafter && p.juz == juz));
+            })
+        }
     }
 }
 
@@ -52,7 +64,7 @@ function outData(val) {
     if (val.length > qty2) {
          //qty4 = val.length;
          
-    console.log('qty2 : ',qty2,'val : ', val.length);
+    //console.log('qty2 : ',qty2,'val : ', val.length);
     for (let index = 0; index < qty2; index++) {
         // const element = array[index];
         //var rnd = Math.random();
@@ -63,7 +75,7 @@ function outData(val) {
         // console.log(random, val[random]);
         if (randomListNumber.indexOf(random) >=0 ) {
             
-            console.log("ada");
+            //console.log("ada");
             index--;
 
         }
@@ -120,10 +132,10 @@ function outData(val) {
     outputTable.innerHTML = htmlTable;
 
     //console.log(`qty2 :  ${qty2} qty3 :  ${qty3}`)
-    console.log(randomListNumber);
-    console.log('random;ist',randomList);
+    //console.log(randomListNumber);
+    //console.log('random;ist',randomList);
     randomList.length = 0;
     randomListNumber.length = 0;
-    console.log('val',val);
+    //console.log('val',val);
     
 }
